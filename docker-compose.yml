@@ -1,0 +1,27 @@
+# PostgreSQL 16 with the repository mounted at /workspace.
+#
+#   docker compose up -d
+#   docker compose exec -w /workspace db psql -U postgres -d grokmart -f pipeline/run_all.sql
+#   docker compose exec -w /workspace db psql -U postgres -d grokmart -f analysis/02_explain_analyze.sql
+#
+# From the host: psql "postgresql://postgres:postgres@localhost:5432/grokmart"
+services:
+  db:
+    image: postgres:16
+    container_name: grokmart-db
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: grokmart
+    ports:
+      - "5432:5432"
+    volumes:
+      - .:/workspace
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d grokmart"]
+      interval: 5s
+      retries: 10
+
+volumes:
+  pgdata:

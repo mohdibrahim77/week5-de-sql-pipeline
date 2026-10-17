@@ -1,0 +1,61 @@
+product_id,product_name,category,unit_price,is_active,updated_at
+P001,Wireless Earbuds,Electronics,2179.00,true,2025-12-31 23:00:00
+P002,Smart Watch,Electronics,8519.00,true,2025-12-31 23:00:00
+P003,Bluetooth Speaker,Electronics,2059.00,true,2025-12-31 23:00:00
+P004,Power Bank,Electronics,6199.00,true,2025-12-31 23:00:00
+P005,USB-C Hub,Electronics,6709.00,true,2025-12-31 23:00:00
+P006,Mechanical Keyboard,Electronics,5759.00,true,2025-12-31 23:00:00
+P007,Gaming Mouse,Electronics,7709.00,true,2025-12-31 23:00:00
+P008,Webcam HD,Electronics,5419.00,true,2025-12-31 23:00:00
+P009,Portable SSD 1TB,Electronics,7569.00,true,2025-12-31 23:00:00
+P010,Noise Cancelling Headphones,Electronics,1029.00,true,2025-12-31 23:00:00
+P011,Air Fryer,Home & Kitchen,599.00,true,2025-12-31 23:00:00
+P012,Mixer Grinder,Home & Kitchen,4599.00,true,2025-12-31 23:00:00
+P013,Electric Kettle,Home & Kitchen,4159.00,true,2025-12-31 23:00:00
+P014,Non-stick Pan Set,Home & Kitchen,4659.00,true,2025-12-31 23:00:00
+P015,Water Purifier,Home & Kitchen,5439.00,true,2025-12-31 23:00:00
+P016,Induction Cooktop,Home & Kitchen,3089.00,true,2025-12-31 23:00:00
+P017,Coffee Maker,Home & Kitchen,4579.00,true,2025-12-31 23:00:00
+P018,Steel Bottle,Home & Kitchen,3639.00,true,2025-12-31 23:00:00
+P019,Pressure Cooker,Home & Kitchen,4499.00,true,2025-12-31 23:00:00
+P020,Rice Cooker,Home & Kitchen,2239.00,true,2025-12-31 23:00:00
+P021,Denim Jacket,Fashion,4799.00,true,2025-12-31 23:00:00
+P022,Running Shoes,Fashion,2619.00,true,2025-12-31 23:00:00
+P023,Cotton Kurta,Fashion,4099.00,true,2025-12-31 23:00:00
+P024,Leather Wallet,Fashion,3549.00,true,2025-12-31 23:00:00
+P025,Sunglasses,Fashion,1769.00,true,2025-12-31 23:00:00
+P026,Silk Saree,Fashion,729.00,true,2025-12-31 23:00:00
+P027,Formal Shirt,Fashion,669.00,true,2025-12-31 23:00:00
+P028,Sneakers,Fashion,2419.00,true,2025-12-31 23:00:00
+P029,Backpack,Fashion,2629.00,true,2025-12-31 23:00:00
+P030,Wrist Watch,Fashion,1339.00,true,2025-12-31 23:00:00
+P031,Designing Data-Intensive Apps,Books,1009.00,true,2025-12-31 23:00:00
+P032,SQL Performance Explained,Books,639.00,true,2025-12-31 23:00:00
+P033,The Data Warehouse Toolkit,Books,1149.00,true,2025-12-31 23:00:00
+P034,Fundamentals of Data Engineering,Books,1169.00,true,2025-12-31 23:00:00
+P035,Clean Code,Books,1319.00,true,2025-12-31 23:00:00
+P036,Python Crash Course,Books,1469.00,true,2025-12-31 23:00:00
+P037,Atomic Habits,Books,409.00,true,2025-12-31 23:00:00
+P038,Deep Work,Books,709.00,true,2025-12-31 23:00:00
+P039,The Pragmatic Programmer,Books,949.00,true,2025-12-31 23:00:00
+P040,Streaming Systems,Books,649.00,true,2025-12-31 23:00:00
+P041,Yoga Mat,Sports,1709.00,true,2025-12-31 23:00:00
+P042,Cricket Bat,Sports,1049.00,true,2025-12-31 23:00:00
+P043,Football,Sports,979.00,true,2025-12-31 23:00:00
+P044,Dumbbell Set 10kg,Sports,469.00,true,2025-12-31 23:00:00
+P045,Badminton Racket,Sports,1119.00,true,2025-12-31 23:00:00
+P046,Cycling Helmet,Sports,1439.00,true,2025-12-31 23:00:00
+P047,Skipping Rope,Sports,2209.00,true,2025-12-31 23:00:00
+P048,Resistance Bands,Sports,979.00,true,2025-12-31 23:00:00
+P049,Tennis Balls,Sports,3049.00,true,2025-12-31 23:00:00
+P050,Gym Gloves,Sports,679.00,true,2025-12-31 23:00:00
+P051,Face Wash,Beauty,879.00,true,2025-12-31 23:00:00
+P052,Sunscreen SPF50,Beauty,1489.00,true,2025-12-31 23:00:00
+P053,Hair Dryer,Beauty,849.00,true,2025-12-31 23:00:00
+P054,Beard Trimmer,Beauty,1929.00,true,2025-12-31 23:00:00
+P055,Lip Balm,Beauty,1289.00,true,2025-12-31 23:00:00
+P056,Moisturiser,Beauty,1329.00,true,2025-12-31 23:00:00
+P057,Perfume 100ml,Beauty,1299.00,true,2025-12-31 23:00:00
+P058,Shampoo,Beauty,839.00,true,2025-12-31 23:00:00
+P059,Face Serum,Beauty,149.00,true,2025-12-31 23:00:00
+P060,Kajal,Beauty,2369.00,true,2025-12-31 23:00:00

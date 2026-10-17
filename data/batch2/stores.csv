@@ -1,0 +1,4 @@
+store_id,store_name,city,region,updated_at
+S06,GrokMart Hyderabad,Hyderabad,NORTH,2026-05-01 00:00:00
+S11,GrokMart Pune,Pune,SOUTH,2026-05-01 00:00:00
+S13,GrokMart Surat,Surat,WEST,2026-05-01 00:00:00

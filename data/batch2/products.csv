@@ -1,0 +1,16 @@
+product_id,product_name,category,unit_price,is_active,updated_at
+P009,Portable SSD 1TB,Electronics,6809.00,true,2026-04-30 22:00:00
+P020,Rice Cooker,Home & Kitchen,2019.00,true,2026-04-30 22:00:00
+P030,Wrist Watch,Fashion,1209.00,true,2026-04-30 22:00:00
+P052,Sunscreen SPF50,Beauty,1639.00,true,2026-04-30 22:00:00
+P031,Designing Data-Intensive Apps,Books,859.00,true,2026-04-30 22:00:00
+P015,Water Purifier,Home & Kitchen,5979.00,true,2026-04-30 22:00:00
+P018,Steel Bottle,Home & Kitchen,3279.00,true,2026-04-30 22:00:00
+P002,Smart Watch,Electronics,9369.00,true,2026-04-30 22:00:00
+P013,Electric Kettle,Home & Kitchen,4159.00,false,2026-04-30 22:00:00
+P047,Skipping Rope,Sports,2209.00,false,2026-04-30 22:00:00
+P061,Robot Vacuum,Home & Kitchen,15999.00,true,2026-04-30 22:00:00
+P062,Fitness Band,Electronics,2499.00,true,2026-04-30 22:00:00
+P063,Data Pipelines Pocket Guide,Books,899.00,true,2026-04-30 22:00:00
+P064,Trail Running Shoes,Fashion,3999.00,true,2026-04-30 22:00:00
+P065,Vitamin C Serum,Beauty,649.00,true,2026-04-30 22:00:00

@@ -1,0 +1,13 @@
+store_id,store_name,city,region,updated_at
+S01,GrokMart Delhi,Delhi,NORTH,2025-12-31 23:00:00
+S02,GrokMart Chandigarh,Chandigarh,NORTH,2025-12-31 23:00:00
+S03,GrokMart Lucknow,Lucknow,NORTH,2025-12-31 23:00:00
+S04,GrokMart Bengaluru,Bengaluru,SOUTH,2025-12-31 23:00:00
+S05,GrokMart Chennai,Chennai,SOUTH,2025-12-31 23:00:00
+S06,GrokMart Hyderabad,Hyderabad,SOUTH,2025-12-31 23:00:00
+S07,GrokMart Kolkata,Kolkata,EAST,2025-12-31 23:00:00
+S08,GrokMart Bhubaneswar,Bhubaneswar,EAST,2025-12-31 23:00:00
+S09,GrokMart Patna,Patna,EAST,2025-12-31 23:00:00
+S10,GrokMart Mumbai,Mumbai,WEST,2025-12-31 23:00:00
+S11,GrokMart Pune,Pune,WEST,2025-12-31 23:00:00
+S12,GrokMart Ahmedabad,Ahmedabad,WEST,2025-12-31 23:00:00
